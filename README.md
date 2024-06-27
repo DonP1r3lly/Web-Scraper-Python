@@ -3,7 +3,9 @@ In this repository we will explore how to extracts sizable amounts of data from 
 *Python required
 
 # 1. Basic
-Soon..
+Soon...
+- libraries: pip install requests, pip install beautifulsoup4
+- 
 
 
 # 2. Advanced
