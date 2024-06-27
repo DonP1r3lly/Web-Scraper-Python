@@ -1,4 +1,4 @@
-# Web-Scraper-Python  BASIC/ADVANCED/PRO/MASTER
+# Web-Scraper-Python  BASIC/ ADVANCED/ PRO/ MASTER
 In this repository we will explore how to extracts sizable amounts of data from websites
 *Python required
 
