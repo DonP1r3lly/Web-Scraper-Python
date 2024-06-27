@@ -3,14 +3,21 @@ In this repository we will explore how to extracts sizable amounts of data from 
 *Python required
 
 # 1. Basic
-Soon...
 - libraries: pip install requests, pip install beautifulsoup4
-- 
+- test with: https://www.hackthissite.org
 
 
 # 2. Advanced
-Soon..
-
+- The program has been designed to be tested on a Wordpress Blog.
+- Data is saved in a .txt file. (new function)
+- Data collected: titles, authors, published_dates and paragraphs
+- Paragrahps (new function)
+- Don't forget to modify the file according to the page you choose:
+- titles = soup.find_all('h2', class_='entry-title')
+- authors = soup.find_all('span', class_='author vcard')
+- published_dates = soup.find_all('span', class_='published')
+- paragraphs_text = get_paragraphs(post_div)
+                              
 
 # 3. Pro 
 Soon...
