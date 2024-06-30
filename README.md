@@ -22,6 +22,7 @@ In this repository we will explore how to extracts sizable amounts of data from 
 # 3. Pro 
 - The project will continue in the future. POST 30/06/24
 - The reason is that another larger project is being prepared.
+- If you want an idea for a web scraper, create it to compare prices on product sales websites. and see price changes in real time
 
 # 4. Master
 - The project will continue in the future. POST 30/06/24
