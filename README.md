@@ -20,11 +20,12 @@ In this repository we will explore how to extracts sizable amounts of data from 
                               
 
 # 3. Pro 
-Soon...
+- The project will continue in the future. POST 30/06/24
+- The reason is that another larger project is being prepared.
 
-
-# 4. Master V 1.0
-Soon...
+# 4. Master
+- The project will continue in the future. POST 30/06/24
+- The reason is that another larger project is being prepared.
 
 
 
